@@ -13,6 +13,7 @@
     "express": "^4.19.2",
     "is-http-url": "^2.0.0",
     "is-url": "^1.2.4",
+    "is-url-http": "^2.3.8",
     "mongodb": "^6.7.0",
     "mongoose": "^8.4.1",
     "shortid": "^2.2.16"
